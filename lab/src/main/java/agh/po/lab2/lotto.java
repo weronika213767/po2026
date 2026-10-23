@@ -1,8 +1,10 @@
+package agh.po.lab2;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 
-public class Lotto {
+public class lotto {
     public static void main(String[] args) {
         // zabezpieczenie przed brakiem arg
         if (args.length != 6) {
